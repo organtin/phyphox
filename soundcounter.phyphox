@@ -206,7 +206,7 @@
         </subtract>
         <subtract>
             <input as="minuend" clear="false">count5</input>
-            <input as="subtrahend" clear="false">count5</input>
+            <input as="subtrahend" clear="false">count4</input>
             <output as="difference">n5</output>
         </subtract>
         <subtract>
